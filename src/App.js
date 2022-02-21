@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Main from "./props/Main";
+import Main from "./hooks/UseEffect/Main";
 // class App extends Component {
 //   render() {
 //     return <Firstcomponent />;
