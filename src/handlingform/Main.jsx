@@ -14,6 +14,7 @@ function Main() {
     setTableData([...tableDate, name]);
     setname("");
   }
+  // console.log(tableDate);
 
   function handleChange(e) {
     setname(e.target.value);

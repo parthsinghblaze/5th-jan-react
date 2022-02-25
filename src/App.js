@@ -1,11 +1,5 @@
 import React, { Component } from "react";
-import Main from "./handlingform/Main";
-// class App extends Component {
-//   render() {
-//     return <Firstcomponent />;
-//   }
-// }
-
+import Main from "./handlingMultipleForm/Main";
 function App() {
   return <Main />;
 }
