@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Main from "./handlingMultipleForm/Main";
+import Main from "./insertdeleteformhandle/Main";
 function App() {
   return <Main />;
 }
