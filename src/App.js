@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import Main from "./insertdeleteformhandle/Main";
+import React from "react";
+import Main from "./useReducer/Main";
 function App() {
   return <Main />;
 }

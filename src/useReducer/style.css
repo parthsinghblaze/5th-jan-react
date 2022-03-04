@@ -1,0 +1,9 @@
+.custom-modal {
+  width: 450px;
+  background-color: rgb(217, 230, 37);
+  padding: 20px;
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+}
