@@ -1,7 +1,7 @@
 import React from "react";
-import Main from "./useReducer/Main";
+import MainApp from "./MainApp";
 function App() {
-  return <Main />;
+  return <MainApp />;
 }
 
 export default App;

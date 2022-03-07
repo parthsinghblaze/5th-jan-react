@@ -1,0 +1,16 @@
+.img-box {
+  width: 100%;
+  height: 40vw;
+}
+
+.img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.custom-card-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
